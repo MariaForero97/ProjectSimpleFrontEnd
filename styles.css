@@ -1,9 +1,11 @@
+
+
 body{
-    background-color: rgb(190, 190, 190)!important;
+    background-color: #F9F3F0!important;
 }
 
 .primary-color{
-    background-color: #9D2CD2;
+    background-color: #9594D3;
 }
 
 .content-profile{
@@ -12,14 +14,20 @@ body{
 
 .footer-of-page {
     position: fixed;
+    height: 66px;
     left: 0;
     bottom: 0;
-    background-color: #9D2CD2;
+    background-color: #9594D3;
     color: white;
     text-align: center;
     width: 100%;
+    
 }
 
   .content-sections{
     margin-top: 30px!important;
   }
+
+ 
+  
+  
